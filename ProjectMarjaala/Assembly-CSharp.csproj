@@ -63,7 +63,9 @@
   <ItemGroup>
     <Compile Include="Assets\Auto Letterbox\ForceCameraRatio.cs" />
     <Compile Include="Assets\Scripts\Blocks.cs" />
+    <Compile Include="Assets\Scripts\CatController.cs" />
     <Compile Include="Assets\Scripts\LeftCollider.cs" />
+    <Compile Include="Assets\Scripts\SceneController.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/Projects/ProjectMarjala/ProjectMarjaala/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
